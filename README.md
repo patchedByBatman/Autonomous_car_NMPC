@@ -1,7 +1,7 @@
 ## Brief
 An NMPC controlled small scale autonomous car driving around a road track with moving obstacles. The vehicle dynamics and reference generator were inspired and built upon details provided in [[1]](#references). 
 
-An explanation of the theory and implementation of the simulation code is available in [NMPC part 1](https://am-press.github.io/posts/maths/nmpc-two-wheel-bicycle-model/) and [NMPC part 2](https://am-press.github.io/posts/maths/nmpc-two-wheel-bicycle-model/).
+An explanation of the theory and implementation of the simulation code is available in [NMPC part 1](https://am-press.github.io/posts/maths/nmpc-two-wheel-bicycle-model/) and [NMPC part 2 (coming soon)]().
 If you like the posts and want to build your own NMPC formulations, please check out [OpEn](https://alphaville.github.io/optimization-engine/). I thank my guide [Pantelis Sopasakis](https://github.com/alphaville) for his support in writing the articles and developing this code.
 
 ## Usage
