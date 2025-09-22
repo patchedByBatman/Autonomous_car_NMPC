@@ -9,7 +9,7 @@ If you like the posts and want to build your own NMPC formulations, please check
 2. Run the file `simulation.py` to simulate and visualise the NMPC controlled small scale car.
 
 ## Results
-The following GIFs showcase some of the simulation results presented in the [NMPC part 2](https://am-press.github.io/posts/maths/nmpc-two-wheel-bicycle-model/) article.
+The following GIFs showcase some of the simulation results presented in the [NMPC part 2 (coming soon)]() article.
 
 <div>
 <img src="https://github.com/patchedByBatman/Autonomous_car_NMPC/blob/main/results/mpc_car_obst_2m_6.gif" alt="Simulation results: NMPC controlled car navigating around a big blue circle (obstacle) of radius 2m at the origin. The vehicle starts at (-2,-2) and reaches (1, 6)." width="640" height="400">
